@@ -12,6 +12,10 @@ int b;
    } 
 
 
+void public display2(){
+    cout <<a<<b;
+   } 
+
 }
 
 
